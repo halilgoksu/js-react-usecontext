@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.userlist{
+ 
+    display: flex;
+    flex-direction: row;
+}
+.app{
+    
+    background-color: rgba(0, 0, 0, 0.401);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 0;
+    justify-content: center;
+    
+}
