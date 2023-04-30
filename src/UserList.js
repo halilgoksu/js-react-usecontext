@@ -6,9 +6,7 @@ import {UserContext} from "./context/UserContext";
 
 const UserList = () => {
     const context= useContext(UserContext);
-    //gelen veriye takma ad olarak context vedik 
-    //asagida veriyi parcalayip kullandik 
-    //gelen degere arrayin icinde bir obje kumesi 
+
     
 
   return (
